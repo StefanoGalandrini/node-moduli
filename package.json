@@ -1,0 +1,27 @@
+{
+  "name": "lc-moduli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Florian-Bool-React-1/lc-moduli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Florian-Bool-React-1/lc-moduli/issues"
+  },
+  "homepage": "https://github.com/Florian-Bool-React-1/lc-moduli#readme"
+}
